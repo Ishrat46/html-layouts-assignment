@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: yellowgreen;
+    height: 100px;
+    color: white;
+    text-align: center;
+}
+header h1{
+    padding-top: 30px;
+}
+nav{
+    background-color: teal;
+    height: 100px;
+    color: white;
+    text-align: center;
+}
+nav h1{
+    padding-top: 30px;
+}
+
+.article{
+    background-color: tomato;
+    overflow: hidden;
+}
+.left{
+    width: 60%;
+    background-color: violet;
+    float: left;
+    height: 400px;
+}
+.top{
+    background-color: sandybrown;
+    height: 30%;
+    color: white;
+    text-align: center;
+}
+
+.first{
+    background-color: goldenrod;
+    width: 30%;
+    color: white;
+    text-align: center;
+    float: left;
+    height: 100%;
+}
+.first h1{
+    padding-top: 30px;
+}
+.second{
+    background-color: rgb(153, 133, 81);
+    width: 50%;
+    color: white;
+    text-align: center;
+    float: left;
+    height: 100%;
+}
+.second h1{
+    padding-top: 40px;
+}
+.third{
+    background-color: rgb(32, 150, 218);
+    width: 20%;
+    color: white;
+    text-align: center;
+    float: left;
+    height: 100%;
+}
+.third h1{
+    padding-top: 30px;
+}
+.bottom{
+    background-color: darkred;
+    height: 70%;
+    color: white;
+    text-align: center;
+}
+.first-bottom{
+    background-color: sandybrown;
+    width: 60%;
+    color: white;
+    text-align: center;
+    float: left;
+    height: 100%;
+}
+.first-bottom h1{
+    padding-top: 120px;
+}
+.second-bottom{
+    background-color: greenyellow;
+    width: 40%;
+    color: white;
+    text-align: center;
+    float: left;
+    height: 100%;
+}
+.second-bottom h1{
+    padding-top: 120px;
+}
+.right{
+    width: 40%;
+    background-color: darkblue;
+    float: right;
+    height: 400px;
+}
+.first-right{
+    background-color: hotpink;
+    width: 60%;
+    color: white;
+    text-align: center;
+    float: left;
+    height: 100%;
+}
+.first-right h1{
+    padding-top: 200px;
+}
+.second-right{
+    background-color: lightcoral;
+    width: 30%;
+    color: white;
+    text-align: center;
+    float: left;
+    height: 100%;
+}
+.second-right h1{
+    padding-top: 180px;
+}
+.third-right{
+    background-color: lightseagreen;
+    width: 10%;
+    color: white;
+    text-align: center;
+    float: left;
+    height: 100%;
+}
+.third-right h1{
+    padding-top: 140px;
+}
+
+footer{
+    background-color: blueviolet;
+    height: 100px;
+    color: white;
+    text-align: center;
+}
+footer h1{
+    padding-top: 30px;
+}

@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: yellowgreen;
+    height: 100px;
+    color: white;
+    text-align: center;
+}
+header h1{
+    padding-top: 30px;
+}
+nav{
+    background-color: teal;
+    height: 100px;
+    color: white;
+    text-align: center;
+}
+nav h1{
+    padding-top: 30px;
+}
+
+.article{
+    background-color: tomato;
+    overflow: hidden;
+}
+.left{
+    width: 60%;
+    background-color: violet;
+    float: left;
+    height: 400px;
+}
+.top{
+    background-color: sandybrown;
+    height: 50%;
+    color: white;
+    text-align: center;
+}
+.top h1{
+    padding-top: 80px;
+}
+.bottom{
+    background-color: darkred;
+    height: 50%;
+    color: white;
+    text-align: center;
+}
+.bottom h1{
+    padding-top: 80px;
+}
+.right{
+    width: 40%;
+    background-color: darkblue;
+    float: right;
+    height: 400px;
+    color: white;
+    text-align: center;
+}
+.right h1{
+    padding-top: 180px;
+}
+
+footer{
+    background-color: slateblue;
+    height: 100px;
+    color: white;
+    text-align: center;
+}
+footer h1{
+    padding-top: 30px;
+}

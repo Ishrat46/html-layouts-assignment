@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: yellowgreen;
+    height: 100px;
+    color: white;
+    text-align: center;
+}
+header h1{
+    padding-top: 30px;
+}
+nav{
+    background-color: teal;
+    height: 100px;
+    color: white;
+    text-align: center;
+}
+nav h1{
+    padding-top: 30px;
+}
+ul{
+    list-style: none;
+    height: 36px;
+    line-height: 36px;
+    background-color: blueviolet;
+    font-size: 20px;
+}
+li{
+    float: left;
+    border-right: 1px solid crimson;
+}
+a{
+    display: block;
+    padding: 0 30px;
+    color: wheat;
+    text-decoration: none;
+}
+a:hover, .a :active{
+    background-color: tomato;
+}
